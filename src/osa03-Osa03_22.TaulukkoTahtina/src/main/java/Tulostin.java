@@ -17,6 +17,8 @@ public class Tulostin {
             System.out.println("");
             indeksi++;
         }
+
+	System.out.println("Päivitetty Gittiin");
         
     }
 
